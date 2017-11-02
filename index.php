@@ -7,5 +7,4 @@ $y = 2;
 $q = 3;
 $z = $x+$y;
 echo $z;
-echo $z+$q;
 ?>
